@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cinema>
+	<filme nome="Filme 1">
+		<genero> Genero 1 </genero>
+		<duracao> Duracao 1 </duracao>
+		<sala> Sala 1 </sala>
+		<capacidade> Capacidade 3 </capacidade>
+		<horarios> Horário 1 </horarios>
+	</filme>
+	<filme nome="Filme 2">
+		<genero> Genero 2 </genero>
+		<duracao> Duracao 2 </duracao>
+		<sala> Sala 2 </sala>
+		<capacidade> Capacidade 3 </capacidade>
+		<horarios> Horário 2 </horarios>
+	</filme>
+	<filme nome="Filme 3">
+		<genero> Genero 3 </genero>
+		<duracao> Duracao 3 </duracao>
+		<sala> Sala 3 </sala>
+		<capacidade> Capacidade 3 </capacidade>
+		<horarios> Horário 3 </horarios>
+	</filme>
+</cinema>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<turma>
+	<disciplina nome="Programacao" professor="Moser">
+		<aluno nota="7.9">Ana</aluno>
+		<aluno nota="9.2">Lucas</aluno>
+		<aluno nota="6.2">Maria</aluno>
+	</disciplina>
+	<disciplina nome="Redes" professor="Ivan">
+		<aluno nota="6.0">Ana</aluno>
+		<aluno nota="9.5">Lucas</aluno>
+		<aluno nota="10.0">Maria</aluno>
+	</disciplina>
+</turma>
